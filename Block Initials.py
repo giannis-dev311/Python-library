@@ -1,0 +1,6 @@
+print ('GGGGG     K   K')
+print ('G         K  K')
+print ('G         KK')        
+print ('G   GG    KK')
+print ('G    G    K  K')
+print (' GGGG     K    K')
